@@ -1,0 +1,11 @@
+<<A>> <<B>> <<C>>
+this sample will break
+meant for error checking
+try with
+only 2
+also good stuff
+---
+<<A>> is first
+<<B>> is second
+<<C>> is third
+<<A>> <<B>> <<C>>

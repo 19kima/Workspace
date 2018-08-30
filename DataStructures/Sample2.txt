@@ -1,0 +1,12 @@
+<<B>> <<Y>> <<T>> <<K>>
+beet yeet teet keet
+bit yit tit kit
+bun yun tun kun
+bcc ycc tcc kcc
+testb testy testt testk
+---
+<<B>> words <<B>>
+<<Y>> words <<Y>>
+<<T>> words <<T>>
+<<K>> words <<K>>
+---

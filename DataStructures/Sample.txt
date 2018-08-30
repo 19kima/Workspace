@@ -1,0 +1,9 @@
+<<N>> <<A>> <<G>>
+John 17 Male
+Angie 12 Female
+Tom 14 Male
+---
+Dear <<N>>,
+Your age is <<A>>
+Your Gender is <<G>>
+---
