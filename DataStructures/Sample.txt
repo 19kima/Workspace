@@ -1,9 +1,12 @@
 <<N>> <<A>> <<G>>
-John 17 Male
-Angie 12 Female
-Tom 14 Male
+John 35 male
+Sally 28 female
+Megan 55 female
 ---
 Dear <<N>>,
-Your age is <<A>>
-Your Gender is <<G>>
----
+
+Because you are <<A>> years old and <<G>>, we have a free gift for you. You have absolutely nothing to buy; just pay the shipping and handling charge of $9.99.
+To claim your gift, call us immediately.
+Thank you,
+
+Office of Claims Department
